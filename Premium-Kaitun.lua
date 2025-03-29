@@ -1,4 +1,3 @@
-```lua
 
 script_key = ""
 _G.Config = "Kaitun"
@@ -49,6 +48,7 @@ end
 __index
 
 
-loadstring(game:HttpGet("https://raw.githubusercontent.com/Zdat/MagoHub/main/bloxfruits/Premium-Kaitun.lua"))()
-
-```
+execute status = "delta, code x, arceus, knrl" -- mobile 
+ execute status = "ware, synz, seliware, AWP, Argon, Velocity" -- pc
+ 
+ 
